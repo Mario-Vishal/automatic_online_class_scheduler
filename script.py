@@ -68,7 +68,7 @@ class automate_class:
             self.browser.find_element_by_tag_name('body').send_keys(Keys.COMMAND+'t')
             # link = self.get_link(d,t)
             time.sleep(1.5)
-            self.browser.get(link)
+            self.browser.get(self.link)
             print("Opening google meet")
             time.sleep(3)
             print("Disabling mic.........")
