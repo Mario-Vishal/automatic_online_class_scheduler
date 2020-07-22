@@ -17,7 +17,7 @@ As of now I only created it to work on linux.
 # Files
 
 - script.py - just run it if you have already configured the data in sch.csv
-- add_schedule.py - if you want to add any other schedules
+- add_schedule.py - if you want to add any other new schedules or append to the previous schedule file.
 
 # Improvements 
 
