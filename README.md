@@ -21,7 +21,7 @@ As of now I only created it to work on linux.
 
 # Improvements 
 
-- wanted to automatically run the script at specific time using crontab linux which is easy but lazy.
+- wanted to automatically run the script at specific time using crontab linux which is easy but lazy but will do later.
 - actually scrape data from my college whatsapp group so I need not need to configure it simply.
 
 ### Try it and also add your username / password for the google meet link in script.py login_account function.
