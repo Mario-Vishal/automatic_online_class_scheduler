@@ -9,7 +9,7 @@ As of now I only created it to work on linux.
 
 # Requirements
 
-- Chrome driver - can get easily by googling
+- Chrome driver - can get easily by googling, after downloading move the file to project directory
 - selenium - pip3 install selenium
 - pandas - pip3 install pandas
 - numpy - pip3 install numpy
