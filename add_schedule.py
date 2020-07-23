@@ -42,16 +42,16 @@ class create_schedule:
                 df.to_csv(self.filename,index=False)
         print("Added!!")
 
-print("Enter you schedule - 0")
-print("Display you schedule - 1")
+print("Enter your schedule - 0")
+print("Display your schedule - 1")
 print("Exit - 2")
 val = int(input('Enter response : '))
 
 f = create_schedule()
 if val==0:
         f.if_exists()
-        date = int(input('date(2 digits) : '))
-        time = int(input('time(2 digits) : '))
+        date = int(input('date(max 2 digits) : '))
+        time = int(input('time(max 2 digits) : '))
         subject = input('Subject(optional) : ')
         staff = input('lecturer(mandatory) : ')
         link = input('online-class-link : ')
