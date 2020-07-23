@@ -7,6 +7,11 @@ So wanted to try selenium to automate this where it gets the current time and da
 
 As of now I only created it to work on linux.
 
+# Preview
+![ssc](https://user-images.githubusercontent.com/51908878/88252859-597dcc80-cccd-11ea-88d5-3f4ce28e5d05.png)
+
+This screen shot is taken at 10 am on 23rd of July, I have a class on Wireless sensor networks
+
 # Requirements
 
 - Chrome driver - can get easily by googling, after downloading move the file to project directory
